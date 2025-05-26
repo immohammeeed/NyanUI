@@ -1,6 +1,6 @@
 # NyanUI
 
-NyanUI is a project aimed at bringing the Samsung OneUI experience to the Galaxy S10 series through custom Android porting. This project aspires to deliver the visual style, features, and usability improvements of OneUI to devices that don't officially receive them.
+NyanUI is a project aimed at bringing the Samsung OneUI experience to the Galaxy S10 series through custom Android porting. This project aspires to deliver smoothness, features, and usability improvements of OneUI to devices that don't officially receive them.
 
 ---
 
@@ -24,9 +24,6 @@ NyanUI is a future project that aims to port OneUI to the Galaxy S10 series. Dev
 
 ## Disclaimer
 
-#include <std_disclaimer.h>
-
-/*
 * Your warranty is now void.
 *
 * I am not responsible for bricked devices, dead SD cards,
@@ -36,7 +33,7 @@ NyanUI is a future project that aims to port OneUI to the Galaxy S10 series. Dev
 * you point the finger at me for messing up your device, I will laugh at you.
 *
 * I am also not responsible for you getting in trouble for using any of the features in this ROM, including but not limited to Call Recording, secure flag removal etc.
-*/
+
 ---
 
 ## Contributing
