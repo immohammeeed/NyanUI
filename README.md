@@ -6,7 +6,7 @@
 <p align="center"><b>NyanUI</b> aims to port Samsung OneUI to the Galaxy S10 series (Exynos only).</p>
 
 <p align="center">
-  <a href="https://t.me/im_mohammeeed">💬 Join the Telegram chat</a>
+  <a href="https://t.me/Nyan_UI">💬 Join the Telegram update channel</a>
 </p>
 
 ---
