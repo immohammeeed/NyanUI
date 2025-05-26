@@ -1,6 +1,6 @@
 </h1>
 <p align="center">
-  <a href="https://github.com/immohammeeed/NyanUI/blob/fifteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/immohammeeed/NyanUI/blob/main/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
   <a href="https://github.com/immohammeeed/NyanUI/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
 </p>
 <p align="center">NyanUI is a future project that aims to port OneUI to the Galaxy S10 series.</p>
