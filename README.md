@@ -1,17 +1,12 @@
-<h1 align="center">
-  <img loading="lazy" src="readme-res/banner.png"/>
 </h1>
 <p align="center">
-  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/commits/fifteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/ExtremeXT/ExtremeROM/fifteen?style=for-the-badge"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
+  <a href="https://github.com/immohammeeed/NyanUI/blob/fifteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/immohammeeed/NyanUI/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
 </p>
-<p align="center">ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
+<p align="center">NyanUI is a future project that aims to port OneUI to the Galaxy S10 series.</p>
 
 <p align="center">
-  <a href="https://t.me/extremerom">💬 Telegram</a>
-  <a href="https://github.com/ExtremeXT/ExtremeROM/wiki">📖 Wiki</a>
+  <a href="https://t.me/im_mohammeeed">💬 Telegram</a>
 </p>
 
 # NyanUI
