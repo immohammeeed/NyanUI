@@ -1,3 +1,19 @@
+<h1 align="center">
+  <img loading="lazy" src="readme-res/banner.png"/>
+</h1>
+<p align="center">
+  <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/LICENSE"><img loading="lazy" src="https://img.shields.io/github/license/ExtremeXT/ExtremeROM?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/ExtremeXT/ExtremeROM/commits/fifteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/ExtremeXT/ExtremeROM/fifteen?style=for-the-badge"/></a>
+  <a href="https://github.com/ExtremeXT/ExtremeROM/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
+  <a href="https://github.com/ExtremeXT/ExtremeROM/graphs/contributors"><img loading="lazy" src="https://img.shields.io/github/contributors/ExtremeXT/ExtremeROM?style=for-the-badge"/></a>
+</p>
+<p align="center">ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.</p>
+
+<p align="center">
+  <a href="https://t.me/extremerom">💬 Telegram</a>
+  <a href="https://github.com/ExtremeXT/ExtremeROM/wiki">📖 Wiki</a>
+</p>
+
 # NyanUI
 
 NyanUI is a project aimed at bringing the Samsung OneUI experience to the Galaxy S10 series through custom Android porting. This project aspires to deliver smoothness, features, and usability improvements of OneUI to devices that don't officially receive them.
@@ -23,7 +39,10 @@ NyanUI is a future project that aims to port OneUI to the Galaxy S10 series. Dev
 ---
 
 ## Disclaimer
+```cpp
+#include <std_disclaimer.h>
 
+/*
 * Your warranty is now void.
 *
 * I am not responsible for bricked devices, dead SD cards,
@@ -33,7 +52,8 @@ NyanUI is a future project that aims to port OneUI to the Galaxy S10 series. Dev
 * you point the finger at me for messing up your device, I will laugh at you.
 *
 * I am also not responsible for you getting in trouble for using any of the features in this ROM, including but not limited to Call Recording, secure flag removal etc.
-
+*/
+```
 ---
 
 ## Contributing
